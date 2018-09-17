@@ -16,7 +16,6 @@
   visibility: hidden;
   height: 0;
   line-height: 0;
-  overflow: auto;
 }
 
 .clear {
@@ -25,6 +24,6 @@
 
 /* Positioning Classes */
 
-.shadow h2 h3 ul{
-  
+.shadow{
+  margin:0 auto;
 }
